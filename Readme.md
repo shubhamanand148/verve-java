@@ -30,3 +30,10 @@ To use the Java app:
    2. Run below command:
 
       ./kafka-console-consumer.sh --bootstrap-server localhost:9090 --topic unique-request-count-topic
+
+**Performance**
+
+The app can handle upto 15k requests/sec.
+See below screenshot for the ap performance.
+
+![app performance](https://drive.google.com/file/d/1XoLUEUuJSwIqdSvQy6dHkzTEQx0Z_SHf/view)
