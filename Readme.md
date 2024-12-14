@@ -36,4 +36,4 @@ To use the Java app:
 The app can handle upto 15k requests/sec.
 See below screenshot for the ap performance.
 
-![app performance](https://drive.google.com/file/d/1XoLUEUuJSwIqdSvQy6dHkzTEQx0Z_SHf/view?usp=drive_link)
+![app performance](https://ibb.co/2cGsJSf)
