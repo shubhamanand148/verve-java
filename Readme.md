@@ -30,7 +30,3 @@ To use the Java app:
    2. Run below command:
 
       ./kafka-console-consumer.sh --bootstrap-server localhost:9090 --topic unique-request-count-topic
-
-
-
-wrk -t8 -c100 -d20s 'http://localhost:8080/api/verve/accept?id=1'
