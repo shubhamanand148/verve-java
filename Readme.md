@@ -1,6 +1,7 @@
 **The Java application**
-1. The application is written in Java and uses Redis (for storing unique id) and Kafka (for streaming).
-2. You 
+The application is written in Java and uses Redis (for storing unique id) and Kafka (for streaming).
+
+
 
 **Using the Java app**
 
