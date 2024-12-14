@@ -1,0 +1,2 @@
+Dec 14, 2024 3:13:18 PM com.example.Controller$SimpleHttpHandler lambda$sendPostRequest$0
+INFO: POST request to http://www.fb.com?uniqueRequestCount=1 returned status code: 301
